@@ -1,2 +1,2 @@
 # CollegeCode
-code from the projects assign in my college career
+code from the projects assigned in my college career
